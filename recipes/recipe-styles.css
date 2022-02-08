@@ -1,0 +1,30 @@
+* {
+    color: rgba(0, 0, 0, 0.925);
+    background-color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#header, div {
+    margin: 10px 100px
+}
+
+#header {
+    font-size: xxx-large;
+}
+
+div {
+    font-size: large;
+}
+
+.main-pic {
+    height: 400px;
+    width: auto;
+}
+
+.description {
+    font-size: x-large;
+}
+
+.directions {
+    text-align: left;
+}
